@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733349786,
+	"version": 1733388765,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,8 @@
 		"images/particles.png",
 		"images/sprite17-sheet0.png",
 		"images/sprite18-sheet0.png",
+		"media/explosion-under-snow-sfx-230505.m4a",
+		"media/explosion-under-snow-sfx-230505.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
