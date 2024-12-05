@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733398295,
+	"version": 1733414470,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/particles.png",
 		"images/sprite17-sheet0.png",
 		"images/sprite18-sheet0.png",
+		"images/sprite19-sheet0.png",
 		"media/explosion-under-snow-sfx-230505.m4a",
 		"media/explosion-under-snow-sfx-230505.ogg",
 		"media/cassh machine.m4a",
@@ -51,6 +52,10 @@
 		"media/trump 3.ogg",
 		"media/trump 4.m4a",
 		"media/trump 4.ogg",
+		"media/biden.m4a",
+		"media/biden.ogg",
+		"media/woke.m4a",
+		"media/woke.ogg",
 		"media/mgwtf - american gdp - bgm.m4a",
 		"media/mgwtf - american gdp - bgm.ogg",
 		"icon-16.png",
